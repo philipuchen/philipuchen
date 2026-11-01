@@ -41,7 +41,7 @@ somewhere between software engineering, ML, and making things actually work for 
 
 | # | Race | Date | Time |
 |---|---|---|---|
-| 2 | Half marathon | Jan 2026 | 2:15:11 |
+| 2 | Standard Chartered Half Marathon | Jan 2026 | 2:15:11 |
 | 1 | Love Run Half Marathon (Philadelphia) | Mar 2023 | **1:56:59** 🏅 |
 
 ---
