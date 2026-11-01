@@ -15,7 +15,7 @@ somewhere between software engineering, ML, and making things actually work for 
 ### 🤖 What I'm focused on
 
 Mostly **Python** and **AI agents** these days — context engineering, evals, and agent harnesses.
-Currently studying **CS329Z**.
+Currently studying [Stanford CS 329Z: Engineering AI Agents](http://cs329z.stanford.edu/).
 
 ### 🛠 Things I tinker with
 
