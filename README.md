@@ -35,7 +35,14 @@ somewhere between software engineering, ML, and making things actually work for 
 
 ### 🏃 Outside of code
 
-Running & cycling (yes, I built a Strava dashboard), cooking, and the occasional NBA rabbit hole.
+⛳ Golf · 🏃 Running · 🏋️ Gym
+
+**Half marathons**
+
+| # | Race | Date | Time |
+|---|---|---|---|
+| 2 | Half marathon | Jan 2026 | 2:15:11 |
+| 1 | Love Run Half Marathon (Philadelphia) | Mar 2023 | **1:56:59** 🏅 |
 
 ---
 
