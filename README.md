@@ -1,23 +1,42 @@
-# 👋 Hi, I'm Phi Chen
+# Hi, I'm Phil Chen (Li-Pu Chen) 👋
 
+**Forward Deployed Engineer @ [Cresta AI](https://cresta.com)** · Penn alum · Based in APAC ✈️
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lipuchen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lipuchen/)
 
----
+I work with enterprise customers to deploy and tune conversational AI in production —
+somewhere between software engineering, ML, and making things actually work for real users.
 
-## 📊 GitHub Stats
-![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=philipuchen&show_icons=true&theme=tokyonight)
-
----
-
-## 📚 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipuchen&layout=compact&theme=tokyonight)
+> Most of my day-to-day work lives on my company GitHub account.
+> This is my personal space for side projects, experiments, and things I build for fun.
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=philipuchen&theme=tokyonight&hide_border=true)
+### 🛠 Things I tinker with
+
+- **Graphics** — learning computer graphics with Three.js + hand-written GLSL (currently: a sailing sim through the "milky sea" off Guishan Island)
+- **Small useful tools** — scrapers and daily monitors, a YouTube bilingual-subtitle generator (Whisper + DeepL), personal finance dashboards
+- **Games** — a Wordle-style GRE vocabulary game
+- **Data / ML** — time-series forecasting, BCI signal regression, computer vision
+
+### 📌 Selected public projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [energy-demand-prediction-northeast-US](https://github.com/philipuchen/energy-demand-prediction-northeast-US) | Forecasting daily energy consumption in the northeastern US | Python · time series · ML |
+| [Finger-Flexion-Regression-BE521](https://github.com/philipuchen/Finger-Flexion-Regression-BE521) | Predicting finger flexion from ECoG signals (Penn BE521 final project) | Python · signal processing |
+| [creditcard-dashboard](https://github.com/philipuchen/creditcard-dashboard) | Turn your own credit card CSV/PDF statements into a spending dashboard | Python |
+| [NBAWhoHePlayedFor](https://github.com/philipuchen/NBAWhoHePlayedFor) | NBA player career data exploration | Python · Jupyter |
+| [real-time-face-emotion-classification](https://github.com/philipuchen/real-time-face-emotion-classification) | Real-time facial emotion classification from webcam | Python · OpenCV · CNN |
+
+### 🧰 Tech I use
+
+`Python` `TypeScript` `JavaScript` `Next.js` `Three.js` `GLSL` `Flask` `PyTorch` `SQL` `LLMs`
+
+### 🏃 Outside of code
+
+Running & cycling (yes, I built a Strava dashboard), cooking, and the occasional NBA rabbit hole.
 
 ---
 
-## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=philipuchen&color=blue)
+📫 [LinkedIn](https://www.linkedin.com/in/lipuchen/)
